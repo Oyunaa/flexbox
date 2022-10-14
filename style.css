@@ -1,0 +1,11 @@
+/* Complete the challenge by writing CSS below */
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.item {
+  /* flex-basis: 200px; */
+}
